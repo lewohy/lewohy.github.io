@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from '../components/App';
+import Index from '../components/Index';
 
-let app = <App/>;
+let index = <Index/>;
 
-ReactDOM.render(app, document.getElementById('app'));
+ReactDOM.render(index, document.getElementById('index'));
